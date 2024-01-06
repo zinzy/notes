@@ -8,5 +8,6 @@ section: notes
 - [js;dr](js;dr.md)
 - [Tool agnosticism](Tool%20agnosticism.md)
 - [Tool agnosticism](/tool-agnosticism)
+- [Tool vibes](Tool%20vibes.md)
 
 Testing a note that is not public: [@p(gm) Design job profiles](@p(gm)%20Design%20job%20profiles.md)
