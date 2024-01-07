@@ -1,7 +1,7 @@
 ---
-title: About this website
 share: true
 section: pages
+title: Site
 ---
 
 I grew up on the Internet in a time when social media meant writing comments on other people's hand-built blogs. The sense of whimsy, endless curiosity, and a beautiful lack of information overload are highs I have been chasing ever since. It instilled in me a deep appreciation for a small-scale, intimate, and friendly internet made up of hand-crafted websites. This is one of them.
@@ -52,3 +52,13 @@ I respect your digital sovereignty. I do not track your personal data nor the jo
 - [ ] Restructure HTML so that page title is part of the entry
 - [ ] Restructure [blogroll](/blogroll) so that it's one list with attributes
 - [ ] Add pagination to updates
+
+### To do before the site is even decent
+- [x] Make sure Hugo handles wiki titles as post slugs
+- [ ] Fix wikilinks
+- [ ] Filter untitled posts out of post index
+- [ ] Feed of untitled posts
+- [ ] Follow page
+- [ ] Fix flex truncate
+- [ ] Add tags
+- [ ] Add blogroll
