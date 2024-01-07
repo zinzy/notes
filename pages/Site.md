@@ -23,13 +23,15 @@ I’ve been yelling at Internet clouds since 1997.
 - It consists mostly of English language text
 
 ### Technical details
-- This website runs on static site generator [Jekyll](https://jekyllrb.com/). I like [HTML energy](https://html.energy/), but I also like conserving my writing across many different technologies, apps, and frameworks 
-- It lives on [Github](https://github.com/zinzy/zinzy.website/), and is deployed via [Netlify](https://www.netlify.com/)
+- After almost a decade with Jekyll, I recently migrated this website to the static site generator [Hugo](https://gohugo.io/). I like [HTML energy](https://html.energy/), but I also like conserving my writing across many different technologies, apps, and frameworks 
+- It lives in a private repo on [Github](https://github.com/zinzy), and is deployed via [Netlify](https://www.netlify.com/)
 - It makes use of [Tailwind](https://tailwindcss.com/)
+- I write my private and public notes in a single folder on my computer, and collect publicly available notes in a Github repo 
+- Currently, the software I use for writing is Obsidian, and I update the notes repo using [Obsidian Github Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
 - [Yellow Lab Tools](https://yellowlab.tools/result/got2ipv3ap) gives this site a 100/100 global score
-- It's a proud member of the [250kb club](https://250kb.club/zinzy-website/)
+- This website is a proud member of the [250kb club](https://250kb.club/zinzy-website/)
 - It has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/zinzy-website/).
-- It uses [webmention, h-card, and h-entry IndieWeb standards](https://spec.indieweb.org/)
+- It used [webmention, h-card, and h-entry IndieWeb standards](https://spec.indieweb.org/), and will again soon
 
 ### Copyleft
 Unless otherwise stated, as per [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1): 
