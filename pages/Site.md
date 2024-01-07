@@ -43,24 +43,24 @@ Unless otherwise stated, as per [CC BY-NC-SA 4.0](http://creativecommons.org/lic
 I respect your digital sovereignty. I do not track your personal data nor the journey you take on this website or any others. While I do my best to minimize this, please remember that, while [I don't track you, others might](https://www.zylstra.org/blog/2020/01/i-dont-track-you-here-but-others-might/).
 
 ### To do
-- [ ] Save highlights on website
-- [ ] [Acceptable accessibility](https://www.a11yproject.com/)
-- [ ] [Tufte-style footnotes](https://edwardtufte.github.io/tufte-css/)
-- [ ] Collection of working notes
-- [ ] Guestbook
-- [ ] Photo blog
-- [ ] Get added to the [xxiivv webring](https://github.com/XXIIVV/webring/pull/858)
-- [ ] Restructure HTML so that page title is part of the entry
-- [ ] Restructure [blogroll](/blogroll) so that it's one list with attributes
-- [ ] Add pagination to updates
-- [ ] Remove Jekyll Shortcuts 
-
-### To do before the site is even decent
-- [x] Make sure Hugo handles wiki titles as post slugs
-- [ ] Fix wikilinks
-- [ ] Filter untitled posts out of post index
-- [ ] Feed of untitled posts
-- [ ] Follow page
-- [ ] Fix flex truncate
-- [ ] Add tags
-- [ ] Add blogroll 
+- Save highlights on website
+- [Acceptable accessibility](https://www.a11yproject.com/)
+- [Tufte-style footnotes](https://edwardtufte.github.io/tufte-css/)
+- Collection of working notes
+- Guestbook
+- Photo blog
+- Get added to the [xxiivv webring](https://github.com/XXIIVV/webring/pull/858)
+- Restructure HTML so that page title is part of the entry
+- Restructure [blogroll](/blogroll) so that it's one list with attributes
+- Add pagination to updates
+- Remove Jekyll Shortcuts 
+- Make sure Hugo handles wiki titles as post slugs
+- ✅ Fix wikilinks
+- Filter untitled posts out of post index
+- Feed of untitled posts
+- Follow page
+- Fix flex truncate
+- Add tags
+- Add blogroll 
+- Indie webify
+- Webmentions
