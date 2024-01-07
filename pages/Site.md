@@ -52,6 +52,7 @@ I respect your digital sovereignty. I do not track your personal data nor the jo
 - [ ] Restructure HTML so that page title is part of the entry
 - [ ] Restructure [blogroll](/blogroll) so that it's one list with attributes
 - [ ] Add pagination to updates
+- [ ] Remove Jekyll Shortcuts 
 
 ### To do before the site is even decent
 - [x] Make sure Hugo handles wiki titles as post slugs
@@ -61,4 +62,4 @@ I respect your digital sovereignty. I do not track your personal data nor the jo
 - [ ] Follow page
 - [ ] Fix flex truncate
 - [ ] Add tags
-- [ ] Add blogroll
+- [ ] Add blogroll 
