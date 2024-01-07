@@ -2,7 +2,7 @@
 title: Now
 share: true
 section: pages
-tagline: What I'd tell a friend I hadn't seen in a year
+description: What I'd tell an old friend
 ---
 
 _Last updated in December 2023._
