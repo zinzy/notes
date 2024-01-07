@@ -8,7 +8,7 @@ tagline: How to reach me
 This is my [hello](https://alastairjohnston.com/introducing-hello-pages/) page, where you can learn how I like to keep in touch. If you have something to share, you'd like to play or learn together, or can think of any other reason we should be talking, get in touch with me. That is a [standing invitation](https://www.kalzumeus.com/standing-invitation/).
 
 ### How to contact me 
-- [Email](/contact) is your best shot
+- Email is your best shot: zinzy [èt] pm {dot} me
 - [Mastodon](https://tech.lgbt/@zinzy) is also acceptable, although it may take a while
 - [LinkedIn](https://nl.linkedin.com/in/zinzy) is good for work
 - If you'd like to schedule mentor time with me, please do so via [ADPList](https://adplist.org/mentors/zinzy-nev-geene)
