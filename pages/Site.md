@@ -2,6 +2,7 @@
 share: true
 section: pages
 title: Site
+description: About this website
 ---
 
 I grew up on the Internet in a time when social media meant writing comments on other people's hand-built blogs. The sense of whimsy, endless curiosity, and a beautiful lack of information overload are highs I have been chasing ever since. It instilled in me a deep appreciation for a small-scale, intimate, and friendly internet made up of hand-crafted websites. This is one of them.
