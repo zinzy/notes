@@ -2,7 +2,7 @@
 title: My interests
 share: true
 section: pages
-tagline: What I'm into
+description: What I'm into
 ---
 
 The red thread in my life is bottomless curiosity for the world in which we live. To learn about fleeting interests, you should read my [Now](/now) page. Below is an overview of the topics that have been with me for decades.

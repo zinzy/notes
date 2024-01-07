@@ -2,7 +2,7 @@
 title: Hello
 share: true
 section: pages
-tagline: How to reach me
+description: How to reach me
 ---
 
 This is my [hello](https://alastairjohnston.com/introducing-hello-pages/) page, where you can learn how I like to keep in touch. If you have something to share, you'd like to play or learn together, or can think of any other reason we should be talking, get in touch with me. That is a [standing invitation](https://www.kalzumeus.com/standing-invitation/).
