@@ -3,7 +3,7 @@ share: true
 draft: false
 title: Overheard in July
 excerpt: ""
-type: post
+type: posts
 date: 2021-07-27
 tags:
   - overheard
