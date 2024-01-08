@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: The art of music theory
-type: posts
 date: 2023-01-14
 excerpt: ""
 tags:
