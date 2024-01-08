@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Meeting Yana and DJ
-type: posts
 date: 2023-04-11
 excerpt: What I love most about today's snapshot is the despair I can see in Lemonade's eyes even when her entire body is a background blur.
 tags:
