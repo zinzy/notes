@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Considerations
-type: posts
 date: 2009-09-27
 excerpt: ""
 tags:
