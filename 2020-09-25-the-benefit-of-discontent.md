@@ -3,7 +3,7 @@ share: true
 draft: false
 title: The benefit of discontent
 excerpt: If you are at all involved in queer Catholic Twitter, you know that last week was a riot. Cause célèbre was an unexpected shout-out from Pope Francis.
-type: post
+type: posts
 date: 2020-09-25
 tags:
   - catholicism
