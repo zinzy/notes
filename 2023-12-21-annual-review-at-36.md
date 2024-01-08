@@ -2,6 +2,7 @@
 share: true
 draft: false
 title: Annual review at 36
+section: posts
 date: 2023-12-21 07:00 +0200
 excerpt: ""
 tags:
