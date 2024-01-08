@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Things on which I have exactly no opinion
-type: post
+type: posts
 date: 2012-09-26
 excerpt: ""
 tags:
