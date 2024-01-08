@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Foreboding
-type: post
+type: posts
 date: 2023-01-17
 excerpt: ""
 tags:
