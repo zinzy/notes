@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Two weeks with a dog
-type: post
+type: posts
 date: 2023-03-08
 tags:
   - milestones
