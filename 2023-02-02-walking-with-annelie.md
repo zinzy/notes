@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Walking with Annelie
-type: posts
 date: 2023-02-02
 excerpt: ""
 tags:
