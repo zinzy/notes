@@ -1,6 +1,6 @@
 ---
 share: true
-type: note
+type: notes
 title: Better Call Saul (2015-2022)
 ---
 

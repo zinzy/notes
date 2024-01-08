@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Why doesn't the crosswalk work?
-type: post
+type: posts
 date: 2023-01-23
 excerpt: ""
 tags:

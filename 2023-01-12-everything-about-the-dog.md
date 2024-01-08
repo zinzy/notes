@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Everything about the dog
-type: post
+type: posts
 date: 2023-01-12
 excerpt: ""
 tags:

@@ -1,6 +1,6 @@
 ---
 share: true
-section: pages
+type: pages
 title: Site
 description: About this website
 ---

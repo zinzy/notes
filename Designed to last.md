@@ -1,7 +1,7 @@
 ---
 title: Designed to last
 share: true
-type: note
+type: notes
 ---
 
 To design something to last is to remember that the context in which we create is not enduring. It requires that we consider the variables of the context of creation, and that we imagine realities in which those variables were different. This design process is not limited to the act of product or web design; I consider it a holistic approach to personal web publishing as well as writing in general.

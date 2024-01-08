@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Welcoming Eleanor
-type: post
+type: posts
 date: 2019-05-30
 tags:
   - illustrations

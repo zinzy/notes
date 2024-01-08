@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Indian Summer Christmas
-type: post
+type: posts
 date: 2013-12-30
 excerpt: ""
 tags:

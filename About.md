@@ -1,8 +1,7 @@
 ---
 title: About
-type: page
+type: pages
 share: true
-section: pages
 description: Information about me
 ---
 

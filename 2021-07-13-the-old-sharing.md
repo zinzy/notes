@@ -1,5 +1,5 @@
 ---
-type: post
+type: posts
 date: 2021-07-13
 share: true
 draft: false

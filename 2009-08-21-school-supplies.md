@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: School supplies
-type: post
+type: posts
 date: 2009-08-21
 excerpt: ""
 tags:

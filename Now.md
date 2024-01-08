@@ -1,7 +1,7 @@
 ---
 title: Now
 share: true
-section: pages
+type: pages
 description: What I'd tell an old friend
 ---
 

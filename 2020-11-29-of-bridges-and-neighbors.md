@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Of bridges and neighbors
-type: post
+type: posts
 date: 2020-11-29
 excerpt: When I first learned that ‘pontifex’, Pope Francis’ Twitter account, is Latin for ‘bridge builder’, I was entirely delighted. “How wonderful”, I thought, “that our institution sees the value in a Pope who builds bridges between the Church and the rest of humanity.”
 tags:

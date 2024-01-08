@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: "'The Whale' for scale"
-type: post
+type: posts
 date: 2023-01-11
 excerpt: ""
 tags:

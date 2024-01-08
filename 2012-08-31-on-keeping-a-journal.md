@@ -3,7 +3,7 @@ share: true
 draft: false
 title: On keeping a journal
 excerpt: ""
-type: post
+type: posts
 date: 2012-08-31
 tags:
   - blogging
