@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Norway et al
-type: post
+type: posts
 date: 2023-08-17
 excerpt: Our first proper holiday in four years
 tags:
