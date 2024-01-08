@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Prospective dog owners
-type: posts
 date: 2023-01-19
 excerpt: ""
 tags:
