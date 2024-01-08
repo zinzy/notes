@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: That was January 2023
-type: post
+type: posts
 date: 2023-01-31
 excerpt: ""
 cta: How did you spend January? Was it dry, wet? Eventful? Boring?
