@@ -3,7 +3,6 @@ share: true
 draft: false
 title: Two things true
 excerpt: ""
-type: posts
 date: 2023-09-06
 tags:
   - storytelling
