@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Sunday seeds
-type: posts
 date: 2013-12-22
 excerpt: ""
 tags:

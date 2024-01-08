@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: We all live in a white submersible
-type: posts
 date: 2023-06-22
 excerpt: ""
 tags:

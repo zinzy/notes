@@ -1,7 +1,6 @@
 ---
 title: Hello
 share: true
-type: pages
 description: How to reach me
 ---
 

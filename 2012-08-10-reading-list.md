@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Reading list
-type: posts
 date: 2012-08-10
 excerpt: ""
 tags:

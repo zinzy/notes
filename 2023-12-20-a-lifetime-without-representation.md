@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: A lifetime without representation
-type: posts
 date: 2023-12-20 07:00 +0200
 excerpt: ""
 tags:

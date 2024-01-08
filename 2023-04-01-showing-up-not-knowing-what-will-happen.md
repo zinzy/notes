@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Showing up not knowing what will happen
-type: posts
 date: 2023-04-01
 excerpt: "I met Shervin at the coffee place this morning. We know each other very casually; we used to frequent the same co-working space, we're LinkedIn friends. He has one of those faces that you just want to meet with a smile. "
 tags:

@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: All Saints Amsterdam
-type: posts
 date: 2023-02-12
 tags:
   - religion

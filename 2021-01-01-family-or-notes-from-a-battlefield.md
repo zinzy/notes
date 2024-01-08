@@ -3,7 +3,6 @@ share: true
 draft: false
 title: Family, or notes from the battlefield
 excerpt: ""
-type: posts
 date: 2021-01-01
 tags:
   - catholicism

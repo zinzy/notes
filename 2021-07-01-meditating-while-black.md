@@ -3,7 +3,6 @@ share: true
 draft: false
 title: Meditating while Black
 excerpt: ""
-type: posts
 date: 2021-07-01
 tags:
   - meditation

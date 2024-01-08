@@ -1,7 +1,6 @@
 ---
 title: Codex
 share: true
-type: pages
 description: A growing record of the things I believe
 ---
 

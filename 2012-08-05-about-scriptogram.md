@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: So, about this Scriptogr.am
-type: posts
 date: 2023-08-05 10:16:15 +0200
 excerpt: ""
 tags:

@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Sneak preview
-type: posts
 date: 2023-01-15
 excerpt: ""
 tags:

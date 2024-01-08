@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: A believable truth
-type: posts
 date: 2021-07-18
 excerpt: ""
 faces:

@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: That person
-type: posts
 date: 2012-10-18
 excerpt: ""
 tags:

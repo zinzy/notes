@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: The blonde
-type: posts
 date: 2023-07-14
 excerpt: A poem about a runner
 tags:

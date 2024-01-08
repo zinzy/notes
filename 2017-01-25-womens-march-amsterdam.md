@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Women's March Amsterdam
-type: posts
 date: 2017-01-25
 faces:
   - Anja

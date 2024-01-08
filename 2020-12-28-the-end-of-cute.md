@@ -1,5 +1,4 @@
 ---
-type: posts
 date: 2020-12-28
 share: true
 draft: false

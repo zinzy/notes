@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: The artificial borders of climate activism
-type: posts
 date: 2023-11-13 10:16:15 +0200
 excerpt: ""
 tags:

@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Commonplace book
-type: posts
 date: 2013-12-20
 excerpt: ""
 tags:
