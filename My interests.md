@@ -1,7 +1,7 @@
 ---
 title: My interests
 share: true
-section: pages
+type: pages
 description: What I'm into
 ---
 
