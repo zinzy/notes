@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Weird movies
-type: post
+type: posts
 date: 2023-01-10
 excerpt: ""
 tags:
