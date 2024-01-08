@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: "`alt` text culture"
-type: posts
 date: 2023-01-13
 excerpt: ""
 tags:
