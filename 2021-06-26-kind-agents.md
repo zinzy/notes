@@ -3,7 +3,7 @@ share: true
 draft: false
 title: Kind agents
 excerpt: ""
-type: post
+type: posts
 date: 2021-06-26
 faces:
   - Anja
