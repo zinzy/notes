@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Eight of ten
-type: posts
 date: 2023-04-09
 excerpt: When I first set foot in the Old Catholic Church to attend an All Saints service, I knew I had found a special place. Today is the third time I make it to their service, which is always on the second Sunday of the month.
 tags:
