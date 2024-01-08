@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: The game show
-type: post
+type: posts
 date: 2023-01-18
 excerpt: ""
 tags:
