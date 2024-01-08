@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: How to be Black
-type: posts
 date: 2018-01-01
 excerpt: ""
 tags:
