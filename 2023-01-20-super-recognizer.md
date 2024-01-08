@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Super-recognizer
-type: post
+type: posts
 date: 2023-01-20
 excerpt: ""
 tags:
