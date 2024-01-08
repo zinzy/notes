@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Dear Nienke, you should have a website
-type: posts
 date: 2023-04-26
 excerpt: ""
 tags:
