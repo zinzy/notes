@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Facts of week 42
-type: posts
 date: 2009-10-18
 excerpt: ""
 tags:
