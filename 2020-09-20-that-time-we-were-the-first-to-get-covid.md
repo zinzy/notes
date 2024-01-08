@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: That time we were the first to get Covid
-type: post
+type: posts
 date: 2020-09-20
 faces:
   - Anja
