@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Saturday morning routines
-type: posts
 date: 2023-02-11
 excerpt: ""
 tags:
