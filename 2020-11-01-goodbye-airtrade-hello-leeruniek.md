@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: Goodbye Airtrade, hello Leeruniek
-type: post
+type: posts
 date: 2020-11-01
 faces:
   - Michar
