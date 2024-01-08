@@ -1,7 +1,7 @@
 ---
 title: Tool agnosticism
 share: true
-type: note
+type: notes
 ---
 
 Stuff on tools
