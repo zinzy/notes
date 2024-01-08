@@ -2,7 +2,7 @@
 share: true
 draft: false
 title: How to live for God
-type: post
+type: posts
 date: 2015-01-16
 excerpt: ""
 tags:
