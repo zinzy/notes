@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: ’Love Actually’, once again
-type: posts
 date: 2023-01-21
 excerpt: ""
 tags:
