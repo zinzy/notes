@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Maker's marks for King's Day
-type: posts
 date: 2023-04-25
 excerpt: ""
 tags:
