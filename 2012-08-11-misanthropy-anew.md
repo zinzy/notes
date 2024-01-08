@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: Misanthropy anew
-type: posts
 date: 2012-08-11
 excerpt: ""
 faces:
