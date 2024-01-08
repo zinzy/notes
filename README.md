@@ -1,6 +1,5 @@
 ---
 draft: true
 ---
-
-# content
+# Content
 Content published on my personal website
