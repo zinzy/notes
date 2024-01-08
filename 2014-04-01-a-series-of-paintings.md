@@ -2,7 +2,6 @@
 share: true
 draft: false
 title: A series of paintings
-type: posts
 date: 2014-04-01
 tags:
   - hobbies
