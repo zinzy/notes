@@ -5,6 +5,14 @@ section: page
 description: Information about me
 ---
 
+<div class="grid grid-cols-2 gap-4">
+<div>
+<img src="https://res.cloudinary.com/dbi2zounq/image/upload/w_800/v1667744670/me/zinzy-1_telofx.jpg" alt="A person smiling and looking into the camera">
+</div>
+<div>
+<img src="https://res.cloudinary.com/dbi2zounq/image/upload/w_800/v1667744670/me/zinzy-2_eixpog.jpg" alt="Same person bursting out laughing">
+</div>
+</div>
 
 Hello, I’m Zinzy Waleson Geene and this is my personal website; a quiet street on the Internet where I come to link and think. It’s a home for soft stances, lived experiences, and critical notes on the things I hold dear. You’re warmly invited to [say hello](/hello).
 
