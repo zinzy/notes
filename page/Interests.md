@@ -10,6 +10,9 @@ The red thread in my life is bottomless curiosity for the world in which we live
 ### Music
 Hailing from a long line of band geeks, I got my first toy piano at age four, and I haven't been the same since. I know my way around most wind and percussion instruments, and developed a keen relationship first with the trumpet and the oboe, then the guitar, and now, finally, the piano. Making music is the single most effective tool in my mental health toolkit.
 
+### Faith
+While it hasn't been easy to find my place in the multiplex that is modern Christianity, spirituality within the context of the story of Jesus has always been important to me. My journey and relationships have let me find inspiration in taoism and Judaism, and today my approach to Christianity is largely non-literal, non-dogmatic, and profoundly subversive, as Robin Meyers would say. I follow Jesus, and I do my best not to worship him. I'm fortunate to have found a fellowship in [All Saints](https://allsaintsamsterdam.church/), where I'm helping to build a community that is truly affirming and inclusive.
+
 ### Photography
 As a young adult I worked as a freelance photographer, and to this day I have a great appreciation for the art of photography. I have a few digital cameras, but most of my love I pour into my Polaroid.
 

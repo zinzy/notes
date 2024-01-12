@@ -23,6 +23,9 @@ I’ve been yelling at Internet clouds since 1997.
 - This space accepts my vulnerability, lack of awareness, and change of heart
 - It consists mostly of English language text
 
+### "Why does this site look... unfinished?"
+I don't know when you're reading this, but chances are that, when you do, this website looks unusual in one way or another. As a designer, my days are made up of making decisions that benefit both the people who use my creations and the people who pay me to make them. On this website, all bets are off. I happen to love the way Times New Roman in blue looks against a white canvas.
+
 ### Technical details
 - After almost a decade with Jekyll, I recently migrated this website to the static site generator [Hugo](https://gohugo.io/). I like [HTML energy](https://html.energy/), but I also like conserving my writing across many different technologies, apps, and frameworks 
 - It lives in a private repo on [Github](https://github.com/zinzy), and is deployed via [Netlify](https://www.netlify.com/)
