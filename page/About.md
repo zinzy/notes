@@ -7,7 +7,7 @@ description: Information about me
 
 ![Three people at an office party smiling for the camera](https://res.cloudinary.com/dbi2zounq/image/upload/v1673958111/me/zinzy-at-a-party_vrzlqr.jpg)
 
-_Here's me with Robin (left) and Michar (right))at an office part in 2019._
+_Here I am with Robin (left) and Michar (right) at an office part in 2019._
 
 Hello, I’m Zinzy Waleson Geene and this is my personal website; a quiet street on the Internet where I come to link and think. It’s a home for soft stances, lived experiences, and critical notes on the things I hold dear. You’re warmly invited to [say hello](/hello).
 
