@@ -7,7 +7,7 @@ description: What I'm into
 
 The red thread in my life is bottomless curiosity for the world in which we live. I enjoy doing short deep-dives into all sorts of subjects. Some stay, but with many I'll reach a point of satisfaction at some point, ready to take on something new. To learn about the more fleeting interests occupying my mind, you should read my [Now](/now) page. Below is an overview of the topics that have been with me for decades.
 
-### Music
+### Making music
 Hailing from a long line of band geeks, I got my first toy piano at age four, and I haven't been the same since. I know my way around most wind and percussion instruments, and developed a keen relationship first with the trumpet and the oboe, then the guitar, and now, finally, the piano. Making music is the single most effective tool in my mental health toolkit.
 
 ### Faith
