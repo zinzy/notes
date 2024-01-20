@@ -15,4 +15,4 @@ On this website as well as in life, I aim to bring my whole self: the self that 
 
 My Xhosa name was inspired by Nelson Mandela's daughter Zindziswa. I'm a mid-tier millennial born and raised in the Dutch South. I came to Amsterdam about a decade ago, and share a small shoebox on the East side with [Anja](https://anjawaleson.notion.site/Anja-Waleson-0182c8df804b4b12ab6e70b5b5795a55) and [Lemonade](https://lemonade.waleson.us/). We are [child-free](https://en.wikipedia.org/wiki/Voluntary_childlessness) and vibing hard.
 
-Obligatory millennial tags: I'm a non-binary lesbian using she and they pronouns, and I'm neurodivergent. I've been sober since May 2018.
+Obligatory millennial tags: I am a non-binary lesbian using she and they pronouns, and I'm neurodivergent. I've been sober since May 2018.
