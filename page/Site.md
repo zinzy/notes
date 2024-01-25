@@ -34,7 +34,7 @@ I don't know when you're reading this, but chances are that, when you do, this w
 - Currently, the software I use for writing is Obsidian, and I update the notes repo using [Obsidian Github Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)
 - [Yellow Lab Tools](https://yellowlab.tools/result/got2ipv3ap) gives this site a 100/100 global score
 - This website is a proud member of the [250kb club](https://250kb.club/zinzy-website/)
-- It has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/zinzy-website/).
+- This website is [hosted green](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fzinzy.website) has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/zinzy-website/).
 - It uses [webmention, h-card, and h-entry IndieWeb standards](https://spec.indieweb.org/)
 
 ### Copyright
