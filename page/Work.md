@@ -16,7 +16,7 @@ I've worked as a researcher, developer, designer, design manager, and product ma
 | Designer & Developer | Studio Zinzy | 2007 - 2015 |
 
 ### Case studies
-The majority of my work is protected by non-disclosure agreements. If you'd like to dive into the details of some of my favorite projects from the past few years, feel free to [reach out to me](/hello). If you're interested in my failures, make sure to check out my [graveyard](/graveyard).
+The majority of my work is protected by non-disclosure agreements. If you'd like to dive into the details of some of my favorite projects from the past few years, feel free to [reach out to me](_Inbox/hello.md). If you're interested in my failures, make sure to check out my [graveyard](/graveyard).
 
 ---
 
