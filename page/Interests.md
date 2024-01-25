@@ -5,7 +5,7 @@ section: page
 description: What I'm into
 ---
 
-The red thread in my life is bottomless curiosity for the world in which we live. I enjoy doing short deep-dives into all sorts of subjects. Some stay, but with many I'll reach a point of satisfaction at some point, ready to take on something new. To learn about the more fleeting interests occupying my mind, you should read my [Now](/now) page. Below is an overview of the topics that have been with me for decades.
+The red thread in my life is bottomless curiosity for the world in which we live. I enjoy doing short deep-dives into all sorts of subjects. Some stay, but with many I'll reach a point of satisfaction at some point, ready to take on something new. To learn about the more fleeting interests occupying my mind, you should read my [Now](/now) page. Below is an overview of the themes that have been with me for decades.
 
 ### Making music
 Hailing from a long line of band geeks, I got my first toy piano at age four, and I haven't been the same since. I know my way around most wind and percussion instruments, and developed a keen relationship first with the trumpet and the oboe, then the guitar, and now, finally, the piano. Making music is the single most effective tool in my mental health toolkit.
@@ -23,9 +23,6 @@ I was academically trained as a linguist and literary theorist and was on a path
 I'm an advocate for an Internet that is kind, accessible, transparent, and designed to foster connection and understanding. There's great joy in maintaining my own website, and meeting many others who do the same.
 
 ### Miscellaneous
-Central questions that overarch my thinking and doing:
-
-### Other things
 - How can design dynamically position itself as a service within an organization?
 - How can technology aid collaboration, inclusion, and knowledge building?
 - How does storytelling affect the lived experience and notion of self of individuals?

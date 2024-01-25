@@ -5,13 +5,13 @@ title: Site
 description: About this website
 ---
 
-
-I grew up on the Internet in a time when social media meant writing comments on other people's hand-built blogs. The sense of whimsy, endless curiosity, and a beautiful lack of information overload are highs I have been chasing ever since. It instilled in me a deep appreciation for a small-scale, intimate, and friendly internet made up of hand-crafted websites. This is one of them.
+I grew up on the Internet in a time when social media meant writing comments on other people's hand-built blogs. The sense of whimsy, coziness, and a beautiful lack of information overload are highs I have been chasing ever since. The Web 1.0 has instilled in me a deep appreciation for a small-scale, intimate, and friendly Internet made up of hand-crafted websites. This is one of them.
 
 I’ve been yelling at Internet clouds since 1997.
 
 ### Principles
 - This is a [motherfucking website](https://motherfuckingwebsite.com/)
+- [A website is a room](https://a-website-is-a-room.net/)
 - It follows [brutalist web design principles](https://brutalist-web.design/) 
 - It is [designed to last](https://jeffhuang.com/designed_to_last/)
 - It is inspired by [Sadness' internet Manifesto](https://sadgrl.online/cyberspace/internet-manifesto)
@@ -35,7 +35,7 @@ I don't know when you're reading this, but chances are that, when you do, this w
 - [Yellow Lab Tools](https://yellowlab.tools/result/got2ipv3ap) gives this site a 100/100 global score
 - This website is a proud member of the [250kb club](https://250kb.club/zinzy-website/)
 - It has been designed to minimise the energy consumption and CO2 emissions that result from navigating the Internet. Current emissions are available to view on [Website Carbon Calculator](https://www.websitecarbon.com/website/zinzy-website/).
-- It used [webmention, h-card, and h-entry IndieWeb standards](https://spec.indieweb.org/), and will again soon
+- It uses [webmention, h-card, and h-entry IndieWeb standards](https://spec.indieweb.org/)
 
 ### Copyright
 Unless otherwise stated, as per [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1): 
@@ -55,13 +55,11 @@ I respect your digital sovereignty. I do not track your personal data nor the jo
 - [ ] Collection of working notes
 - [ ] Guestbook
 - [ ] Photo blog
-- [x] Get added to the [xxiivv webring](https://github.com/XXIIVV/webring/pull/858)
 - [ ] Restructure HTML so that page title is part of the entry
 - [ ] Restructure [blogroll](/blogroll) so that it's one list with attributes
 - [ ] Add pagination to updates
 - [ ] Make sure Hugo handles wiki titles as post slugs
-- [ ] Fix wikilinks
-- [x] Filter untitled posts out of post index
+- [ ] Fix wikilinks 
 - [ ] Feed of untitled posts
 - [ ] Follow page
 - [ ] Fix flex truncate
@@ -70,3 +68,6 @@ I respect your digital sovereignty. I do not track your personal data nor the jo
 - [ ] Indie webify
 - [ ] Webmentions
 - [ ] Added deployment scheme
+- [ ] Fix URLs of posts without title
+- [ ] Fix RSS
+- [ ] Fix prose color scheme

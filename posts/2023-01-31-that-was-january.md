@@ -42,4 +42,4 @@ Anja and I also began watching [_Shrinking_](https://www.imdb.com/title/tt156771
 
 
 ### Something else
-I find myself looking for great influencers focused on gifted neurodivergence. Like those many awesome YouTubers sharing tips and tricks on how to live with ADHD, but for giftedness, and not in some Mensa kind of way, but just something that's honest about the challenges one may encounter. Most of what I find is written by pedagogues for parents of gifted children. If you know of anything, feel free to [let me know](/hello).
+I find myself looking for great influencers focused on gifted neurodivergence. Like those many awesome YouTubers sharing tips and tricks on how to live with ADHD, but for giftedness, and not in some Mensa kind of way, but just something that's honest about the challenges one may encounter. Most of what I find is written by pedagogues for parents of gifted children. If you know of anything, feel free to [let me know](_Inbox/hello.md).
