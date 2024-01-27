@@ -12,9 +12,9 @@ I’ve been yelling at Internet clouds since 1997.
 ### Principles
 - This is a [motherfucking website](https://motherfuckingwebsite.com/)
 - [A website is a room](https://a-website-is-a-room.net/)
-- It follows [brutalist web design principles](https://brutalist-web.design/) 
+- [A website is a home](https://nicochilla.com/my-website-as-a-home/)
+- This one follows [brutalist web design principles](https://brutalist-web.design/) 
 - It is [designed to last](https://jeffhuang.com/designed_to_last/)
-- It is inspired by [Sadness' internet Manifesto](https://sadgrl.online/cyberspace/internet-manifesto)
 - It will hopefully one day be properly [accessible](accessibility)
 - I like to keep things simple, unlike how we [experience the web today](https://how-i-experience-web-today.com/)
 
@@ -54,20 +54,14 @@ I respect your digital sovereignty. I do not track your personal data nor the jo
 - [ ] [Tufte-style footnotes](https://edwardtufte.github.io/tufte-css/)
 - [ ] Collection of working notes
 - [ ] Guestbook
-- [ ] Photo blog
-- [ ] Restructure HTML so that page title is part of the entry
+- [ ] Photo blog 
 - [ ] Restructure [blogroll](/blogroll) so that it's one list with attributes
 - [ ] Add pagination to updates
 - [ ] Make sure Hugo handles wiki titles as post slugs
-- [ ] Fix wikilinks 
-- [ ] Feed of untitled posts
-- [ ] Follow page
-- [ ] Fix flex truncate
+- [ ] Fix wikilinks  
 - [ ] Add tags
-- [ ] Add blogroll 
-- [ ] Indie webify
-- [ ] Webmentions
-- [ ] Added deployment scheme
-- [ ] Fix URLs of posts without title
-- [ ] Fix RSS
+- [ ] Add blogroll  
+- [ ] Webmentions 
 - [ ] Fix prose color scheme
+- [ ] [App defaults](https://defaults.rknight.me/) 
+- [ ] [Write IndieWeb Carnival post](https://foreverliketh.is/blog/indieweb-carnival-reminder/)
