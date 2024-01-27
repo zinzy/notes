@@ -46,10 +46,10 @@ Feel free to read, learn, wonder, and remember:
 	- There are church communities that I cannot join because of the color of my skin, my gender identity, or my sexual orientation.
 
 #### Chapter 3: Spirituality and philosophy
-- [[ I take the Bible too seriously to take it literally| I take the Bible too seriously to take it literally]]
-- [[What we do trumps what we believe|What we do trumps what we believe]]
+- [ I take the Bible too seriously to take it literally](I%20take%20the%20Bible%20too%20seriously%20to%20take%20it%20literally.md)
+- [What we do trumps what we believe](What%20we%20do%20trumps%20what%20we%20believe.md)
 - Christian culture is concerned too much with what's to come and not enough with what is
-- [[Jesus is my teacher, not my savior|Jesus is my teacher, not my savior]]
+- [Jesus is my teacher, not my savior](Jesus%20is%20my%20teacher,%20not%20my%20savior.md)
 - Studying the Bible in its historical, literary, and liturgical context is an important tool to better understand the cultures in which it has become or has been dominant
 
 #### Chapter 4: People & relationships
