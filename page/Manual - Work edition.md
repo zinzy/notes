@@ -34,7 +34,7 @@ I prefer to not be engaged in daily standups unless I'm actually a member of a s
 
 ### When receiving feedback...
 - If you are able to and comfortable, give it to me face-to-face. I use cues from your tone, face, posture, and demeanor to contextualize what you're saying. It may help for me to ask some clarifying questions, too.
-- The maxim [Praise in public, criticize in private](Praise%20in%20public,%20criticize%20in%20private.md) is important to me, particularly the latter part. If you have feedback about something I handled poorly or should stop doing, I prefer we speak about it one-on-one.
+- The maxim [[Praise in public, criticize in private|Praise in public, criticize in private]] is important to me, particularly the latter part. If you have feedback about something I handled poorly or should stop doing, I prefer we speak about it one-on-one.
 
 ### What motivates me to come into work each day is ...
 - At heart, I'm a problem solver. I love that I get to do this for a living
