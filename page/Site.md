@@ -52,16 +52,13 @@ I respect your digital sovereignty. I do not track your personal data nor the jo
 - [ ] Save highlights on website
 - [ ] [Acceptable accessibility](https://www.a11yproject.com/)
 - [ ] [Tufte-style footnotes](https://edwardtufte.github.io/tufte-css/)
-- [ ] Collection of working notes
 - [ ] Guestbook
 - [ ] Photo blog 
 - [ ] Restructure [blogroll](/blogroll) so that it's one list with attributes
-- [ ] Add pagination to updates
 - [ ] Make sure Hugo handles wiki titles as post slugs
-- [ ] Fix wikilinks  
 - [ ] Add tags
-- [ ] Add blogroll  
 - [ ] Webmentions 
-- [ ] Fix prose color scheme
 - [ ] [App defaults](https://defaults.rknight.me/) 
-- [ ] [Write IndieWeb Carnival post](https://foreverliketh.is/blog/indieweb-carnival-reminder/)
+- [ ] [Write IndieWeb Carnival post](https://foreverliketh.is/blog/indieweb-carnival-reminder/) 
+- [ ] State for nonexistent wiki notes
+- [ ] Fix double build
