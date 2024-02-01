@@ -102,7 +102,8 @@ Feel free to read, learn, wonder, and remember:
 
 #### Chapter 11: Personal Productivity
 - One notebook for everything is enough
- 
+- [Tools do not matter](Tools%20do%20not%20matter.md)
+
 #### Chapter 12: Nitty Gritty
 - Treat or split the tab. Don't try to remember who owes who what.  
 - Carnations are the best flowers
