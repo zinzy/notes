@@ -16,7 +16,7 @@ Inspired by [App Defaults](https://defaults.rknight.me/), this is a list of the 
 
 | Type | App(s) | Experience |
 | ---- | ---- | ---- |
-| Mail client | [Spark](https://sparkmailapp.com/) | 🙂 |
+| Mail client | [Spark](https://sparkmailapp.com/) | 🤷🏽 |
 | Mail server | Various | 😑 |
 | Notes | [Obsidian](https://obsidian.md/) | ☺️ |
 | To do | [Goodnotes](https://www.goodnotes.com/) | ☺️ |
@@ -24,28 +24,28 @@ Inspired by [App Defaults](https://defaults.rknight.me/), this is a list of the 
 | Photo editing | [Snapseed](https://apps.apple.com/us/app/snapseed/id439438619) | ☺️ |
 | Photo management | Various | 😑 |
 | Calendar | [Calendars](https://apps.apple.com/nl/app/calendars-5-by-readdle/id697927927) | 😑 |
-| Cloud file storage | [Dropbox](https://dropbox.com/) | 🙂 |
+| Cloud file storage | [Dropbox](https://dropbox.com/) | 🤷🏽 |
 | RSS | [Reader](https://readwise.io/read) | ☺️ |
 | Contacts | Contacts | 😑 |
-| Browser | Chrome | 🙂 |
-| Chat | Messages, Whatsapp | 🙂 |
-| Bookmarks | Chrome, website | 🙂 |
+| Browser | Chrome | 🤷🏽 |
+| Chat | Messages, Whatsapp | 🤷🏽 |
+| Bookmarks | Chrome, website | 🤷🏽 |
 | Read it later | Reader | ☺️ |
-| Word processing | Obsidian, Google Docs | 🙂 |
-| Spreadsheets | Google Sheets | 🙂 |
-| Presentations | Google Slides | 🙂 |
-| Shopping lists | Obsidian | 🙂 |
+| Word processing | Obsidian, Google Docs | 🤷🏽 |
+| Spreadsheets | Google Sheets | 🤷🏽 |
+| Presentations | Google Slides | 🤷🏽 |
+| Shopping lists | Obsidian | 🤷🏽 |
 | UX design | Figma | 😍 |
 | Meal planning | N/A | - |
 | Budgeting | [YNAB](https://ynab.com/) | 😍 |
 | News | N/A | - |
-| Music | Spotify | 🙂 |
-| Audio books | Audible | 🙂 |
-| Podcasts | PocketCasts | 🙂 |
+| Music | Spotify | 🤷🏽 |
+| Audio books | Audible | 🤷🏽 |
+| Podcasts | PocketCasts | 🤷🏽 |
 | Password management | redacted |  |
-| Code editor, desktop | VS Code | 🙂 |
-| Code editor, mobile | Working Copy | 🙂 |
-| Maps | Google Maps | 🙂 |
+| Code editor, desktop | VS Code | 🤷🏽 |
+| Code editor, mobile | Working Copy | 🤷🏽 |
+| Maps | Google Maps | 🤷🏽 |
 | AI assistant | N/A | - |
 | Reading log | [Goodreads](https://www.goodreads.com/user/show/23204424-zinzy) | ☺️ |
 | White noise | [Better Sleep](https://www.bettersleep.com/) | 😍 |
