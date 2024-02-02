@@ -18,19 +18,19 @@ Inspired by [App Defaults](https://defaults.rknight.me/), this is a list of the 
 | ---- | ---- | ---- |
 | Mail client | [Spark](https://sparkmailapp.com/) | 🙂 |
 | Mail server | Various | 😑 |
-| Notes | [Obsidian](https://obsidian.md/) | ☺️ |
-| To do | [Goodnotes](https://www.goodnotes.com/) | ☺️ |
-| Photo shooting | Camera.app, [Polaroid Now+ 2](https://www.polaroid.com/collections/now-plus-camera) | ☺️ |
-| Photo editing | [Snapseed](https://apps.apple.com/us/app/snapseed/id439438619) | ☺️ |
+| Notes | [Obsidian](https://obsidian.md/) | 😏 |
+| To do | [Goodnotes](https://www.goodnotes.com/) | 😏 |
+| Photo shooting | Camera.app, [Polaroid Now+ 2](https://www.polaroid.com/collections/now-plus-camera) | 😏 |
+| Photo editing | [Snapseed](https://apps.apple.com/us/app/snapseed/id439438619) | 😏 |
 | Photo management | Various | 😑 |
 | Calendar | [Calendars](https://apps.apple.com/nl/app/calendars-5-by-readdle/id697927927) | 😑 |
 | Cloud file storage | [Dropbox](https://dropbox.com/) | 🙂 |
-| RSS | [Reader](https://readwise.io/read) | ☺️ |
+| RSS | [Reader](https://readwise.io/read) | 😏 |
 | Contacts | Contacts | 😑 |
 | Browser | Chrome | 🙂 |
 | Chat | Messages, Whatsapp | 🙂 |
 | Bookmarks | Chrome, website | 🙂 |
-| Read it later | Reader | ☺️ |
+| Read it later | Reader | 😏 |
 | Word processing | Obsidian, Google Docs | 🙂 |
 | Spreadsheets | Google Sheets | 🙂 |
 | Presentations | Google Slides | 🙂 |
@@ -47,17 +47,17 @@ Inspired by [App Defaults](https://defaults.rknight.me/), this is a list of the 
 | Code editor, mobile | Working Copy | 🙂 |
 | Maps | Google Maps | 🙂 |
 | AI assistant | N/A | - |
-| Reading log | [Goodreads](https://www.goodreads.com/user/show/23204424-zinzy) | ☺️ |
+| Reading log | [Goodreads](https://www.goodreads.com/user/show/23204424-zinzy) | 😏 |
 | White noise | [Better Sleep](https://www.bettersleep.com/) | 😍 |
 | Prayer | [Lectio 365](https://www.24-7prayer.com/resource/lectio-365/), [Prayer Day By Day](https://prayer.forwardmovement.org/fdd) | 😍 |
 | Media triggers | [Does The Dog Die?](https://www.doesthedogdie.com/) | 😍 |
-| Pomodoro | [Flow](https://flowapp.info/) | ☺️ |
-| Notes, handwritten | Goodnotes | ☺️ |
-| Code repository | GitHub | ☺️ |
-| Bible study | [Logos+](http://www.logos.com/) | ☺️ |
+| Pomodoro | [Flow](https://flowapp.info/) | 😏 |
+| Notes, handwritten | Goodnotes | 😏 |
+| Code repository | GitHub | 😏 |
+| Bible study | [Logos+](http://www.logos.com/) | 😏 |
 | Language learning | [Memrise](https://memrise.com/) | 😍 |
-| Flashcards | [Quizlet](https://quizlet.com/) | ☺️ |
-| Music study | [Toned Ear](https://tonedear.com/) | ☺️ |
+| Flashcards | [Quizlet](https://quizlet.com/) | 😏 |
+| Music study | [Toned Ear](https://tonedear.com/) | 😏 |
 |  |  |  |
 
 ### In addition
