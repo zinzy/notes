@@ -1,15 +1,17 @@
 ---
 title: "Defaults: early 2024 edition"
+description: Inspired by App Defaults, this is a list of the main tools I frequently use these days.
 section: posts
 share: true
 date: 2024-02-02
 tags:
-- app-defaults
-- software
-- recommendations
-- uses
-- tools
+  - app-defaults
+  - software
+  - recommendations
+  - uses
+  - tools
 ---
+
 Inspired by [App Defaults](https://defaults.rknight.me/), this is a list of the main tools I frequently use these days.
 
 
