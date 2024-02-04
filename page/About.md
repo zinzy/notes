@@ -5,15 +5,28 @@ section: page
 description: Information about me
 ---
 
+
 {{< rawhtml >}}
-<div class="grid grid-cols-2 gap-1">
-  <div>
-    <img src="https://res.cloudinary.com/dbi2zounq/image/upload/v1667744670/me/zinzy-2_eixpog.jpg" alt="">
+<div class="flex gap-4 mb-14">
+    <div class="w-2/3">
+      <figure class="m-0 p-0">
+        <img src="https://res.cloudinary.com/dbi2zounq/image/upload/v1692260666/IMG_4778_fm3g1i.jpg" alt="">
+        <figcaption class="mt-3">
+          <div class="text-gray-950 dark:text-white">Zinzy</div>
+          <div>Assistant to the Regional Manager</div>
+        </figcaption>
+      </figure>
+    </div>
+    <div class="w-1/3">
+      <figure class="m-0 p-0">
+        <img src="https://res.cloudinary.com/dbi2zounq/image/upload/v1696188888/ad4n2opghogfcyyyigad.jpg" alt="">
+        <figcaption class="mt-3">
+          <div class="text-gray-950 dark:text-white">Lemonade</div>
+          <div>Regional Manager</div>
+        </figcaption>
+      </figure>
+    </div> 
   </div>
-  <div>
-    <img src="https://res.cloudinary.com/dbi2zounq/image/upload/v1649240297/me/FullSizeRender_copy_y5whli.jpg" alt="">
-  </div> 
-</div>
 {{< /rawhtml >}}
 
 Hello, I’m Zinzy Waleson Geene (she/they) and this is my personal website; a quiet street on the Internet where I come to link and think. It’s a home for soft stances, lived experiences, and critical notes on the things I hold dear. On this website as well as in life, I aim to bring my whole self: the self that works, plays, questions, doodles, fears, cooks, prays, gets angry, changes her mind. I write about my [interests](/interests) and what I'm up to [now](/now).
