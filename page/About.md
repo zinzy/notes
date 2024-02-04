@@ -18,7 +18,7 @@ description: Information about me
 
 Hello, I’m Zinzy Waleson Geene (she/they) and this is my personal website; a quiet street on the Internet where I come to link and think. It’s a home for soft stances, lived experiences, and critical notes on the things I hold dear. On this website as well as in life, I aim to bring my whole self: the self that works, plays, questions, doodles, fears, cooks, prays, gets angry, changes her mind. I write about my [interests](/interests) and what I'm up to [now](/now).
 
-During office hours, I work as a senior researcher and designer at [Gerimedica](https://gerimedica.nl/). After 17 years in the industry, I'm pleased to have entered healthcare technology, where the business rules are intricate, the problems serious, and the people in it with their full heart. You may be interested to read more about my [work](/work).
+During office hours, I work as a senior researcher and designer at [Gerimedica](https://gerimedica.nl/), a provider of healthcare software. I love the enterprise SaaS space because of its intricate business rules, serious problems, and domain experts. You may be interested to read more about my [work](/work).
 
 {{< rawhtml >}}
 <div class="grid grid-cols-2 gap-1">
