@@ -4,7 +4,12 @@ section: posts
 share: true
 date: 2024-02-04
 tags:
-  - vibecheck
+  - vibechecks
+  - Church
+  - IndieWeb
+  - recovery
+  - music
+  - 
 ---
 
 ### Introduction
