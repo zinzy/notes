@@ -1,6 +1,7 @@
 ---
 title: Work
 share: true
+layout: work
 section: page
 description: What I do for money
 ---
