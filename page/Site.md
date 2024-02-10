@@ -58,7 +58,5 @@ I respect your digital sovereignty. I do not track your personal data nor the jo
 - [ ] Make sure Hugo handles wiki titles as post slugs
 - [ ] Add tags
 - [ ] Webmentions 
-- [ ] [App defaults](https://defaults.rknight.me/) 
-- [ ] [Write IndieWeb Carnival post](https://foreverliketh.is/blog/indieweb-carnival-reminder/) 
 - [ ] State for nonexistent wiki notes
 - [ ] Fix double build
