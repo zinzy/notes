@@ -46,7 +46,7 @@ Unless otherwise stated, as per [CC BY-NC-SA 4.0](http://creativecommons.org/lic
 - Any adaptations you make, should use the same license
 
 ### Privacy
-I respect your digital sovereignty. I do not track your personal data nor the journey you take on this website or any others. While I do my best to minimize this, please remember that, while [I don't track you, others might](https://www.zylstra.org/blog/2020/01/i-dont-track-you-here-but-others-might/).
+I respect your digital sovereignty. I do not track your personal data nor the journey you take on this website or any others; this website is [cookie zero](https://edleeman.co.uk/cookie-zero/). While I do my best to minimize this, please remember that, while [I don't track you, others might](https://www.zylstra.org/blog/2020/01/i-dont-track-you-here-but-others-might/).
 
 ### To do
 - [ ] Save highlights on website
