@@ -4,16 +4,12 @@ share: true
 section: notes
 ---
 
-With unending cringe, intellectual preciseness, vague reluctance, and a bit of nostalgia I say: I'm a member of the global Christian community.  I have many reasons for having such multiplex feelings, but it's safe to say that I'm an active congregant of a Christian fellowship called All Saints Amsterdam. I like Jesus, but I struggle with much of who and what came after.
+For me, that means my faith is:
 
-Not seldom does this confession bring confusion, shock, or laughter into my conversations. As a queer person of color, I don't seem like the core target audience for many of the things modern Christianity offers. Still, I've sought long and hard for a spiritual place to call home.
-
-### "What kind of a Christian are you?" 
-Today, I would refer to myself using the following labels:
 - **Non-literal and non-dogmatic:** I take the Bible too seriously to take it literally, and instead apply different reading techniques to find something new in it, again and again
-- **Personal:** I see Christianity as an inherently personal endeavor, and don't believe I have the right or duty to convince people of _my_ particular way of looking at it or the world. It's nice to know people whose ideas resonate with me
+- **Personal:** I see Christianity as an inherently personal endeavor, and don't believe I have the right or duty to convince people of _my_ particular way of looking at it or the world. Still, it's nice to know people whose ideas resonate with me. I meet them at [All Saints Amsterdam](https://allsaintsamsterdam.church)
 - **Orthoprax and profoundly subversive:** I find great inspiration in the work of Robin Meyers, who reminds me in all sorts of ways to walk the talk
-- **In the world *and* of the world:** I'm not a Christian because I believe this world is not my final resting place; instead I try to root in my spiritual practice the knowledge that how I practice my faith is most important for the here and now
+- **In the world *and* of the world:** I use spirituality to figure out how I can make a little more heaven on earth. I reject moral superiority and the notion that what I do now only seeks to serve me later, in the Beyond.
 
 ### How did you become a Christian?
 As an infant, I was baptized in the Dutch Catholic Church. At home, there was little interest in dogma, but I would say I grew up culturally Catholic: Church on Christmas and maybe Easter, children's prayers before bed, general lean towards feelings of guilt, on occasion a traumatized uncle would let rip about his time as an orphan living with the friars. The usual stuff.
